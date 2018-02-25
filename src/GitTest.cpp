@@ -11,10 +11,10 @@ using namespace std;
 
 int main() {
 
-	cout << "----------------------------\n"
-		 << "         I love you++.      \n"
-	     << "----------------------------\n"
-		 << endl; // prints I love you++.
+	cout << "---------------------\n"
+		 << "      I love you.    \n"
+		 << "---------------------\n"
+		 << endl; // I love you.
 
 	return 0;
 }
