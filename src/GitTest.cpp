@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
 
-    cout	<< "---------------------\n"
+    cout    << "---------------------\n"
             << "      I love you.    \n"
             << "---------------------\n"
             << endl; /* I love you. */
@@ -22,6 +22,8 @@ int main()
     printf("Add the code comments\n\n");
 
     printf("Add another piece of code.\n");
+
+    /* Add the comments from Ubuntu. */
 
     return 0;
 }
