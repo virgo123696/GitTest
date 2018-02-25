@@ -18,7 +18,9 @@ int main() {
 
 	/* Add the comments */
 
-    printf("Add the code comments\n");
+    printf("Add the code comments\n\n");
+
+    printf("Add another piece of code.\n");
 
 	return 0;
 }
