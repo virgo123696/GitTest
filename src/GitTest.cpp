@@ -16,5 +16,11 @@ int main() {
 		 << "---------------------\n"
 		 << endl; // I love you.
 
+	/* Add the comments */
+
+    printf("Add the code comments\n");
+
 	return 0;
 }
+
+
