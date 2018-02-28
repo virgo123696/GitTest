@@ -3,3 +3,5 @@
 /* Try the merge command */
 
 /* Add the third line. */
+
+/* New comments to verify merge command. */
